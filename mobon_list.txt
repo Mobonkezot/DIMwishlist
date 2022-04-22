@@ -1,5 +1,6 @@
 title: Mes armes destiny 2
-description:armes PVE mes God-Roll
+description:armes PVE/PVP mes God-Roll
+
 //cauchemard forensic
 dimwishlist:item=1526296434&perks=839105230,3230963543,1631667848,124408337,3717985200
 dimwishlist:item=1526296434&perks=,,1631667848,124408337,3717985200#notes:2 perks au choix
